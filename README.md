@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project was submiited in fullfilment of the Machine Learning Course as part of the Data Science for Public Policy Masters program at the [Hertie School, Berlin](https://www.hertie-school.org/en/) in November 2022. 
+This project was submitted in fullfilment of the Machine Learning Course as part of the Data Science for Public Policy Masters program at the [Hertie School, Berlin](https://www.hertie-school.org/en/) in November 2022. 
 
 ### Project Description
 
