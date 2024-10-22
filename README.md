@@ -1,4 +1,4 @@
-#NLP Project - Fake News
+# NLP Project - Fake News
 
 ## Summary
 
@@ -6,7 +6,7 @@ This project was submitted in fullfilment of the Machine Learning Course as part
 
 ### Project Description
 
-The majority of fake news classification research is focused on fake news, primarily in the English language. In addition to using English language dataset as an initial phase of the project for testing supervised machine learning algorithms, Logistic Regression and Passive Aggressive Classifier performance, the project also used Spanish language fake news data set that was augmented by data web scrapped from Spanish news websites. The English and non-English language approach was used to compare the performance of both models. The project implements the model on both text and title of English language dataset, while implementing the models on text in Spanish dataset.
+The majority of fake news classification research is focused on fake news, primarily in the English language. In addition to using English language dataset as an initial phase of the project for testing supervised machine learning algorithms, Logistic Regression and Passive Aggressive Classifier performance, the project also used Spanish language fake news data set that was augmented by data scraped from Spanish news websites. The English and non-English language approach was used to compare the performance of both models. The project implements the model on both text and title of English language dataset, while implementing the models on text in Spanish dataset.
 
 
 ## Authors
